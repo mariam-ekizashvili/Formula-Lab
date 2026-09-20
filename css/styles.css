@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Georgian:wght@400;600;700&display=swap');
+
+* { 
+    font-family: 'Noto Sans Georgian', sans-serif; 
+  }
+
+
+@media (max-width: 380px) {
+  #tn1{
+    font-size: 12px;
+  }
+
+  #tn3{
+    font-size: 20px;
+  }
+
+  .bx1{
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 330px) {
+
+    #tn1{
+    font-size: 11px;
+  }
+
+  #tn3{
+    font-size: 16px;
+  }
+
+}
+
